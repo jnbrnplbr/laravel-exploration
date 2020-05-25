@@ -22,7 +22,6 @@ class CreateServicesTable extends Migration
         });
     }
 
-   
     /**
      * Reverse the migrations.
      *
